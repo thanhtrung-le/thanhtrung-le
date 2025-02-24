@@ -57,8 +57,10 @@ flowchart LR
     B --> C{Decision}
     C -->|One| D[Result 1]
     C -->|Two| E[Result 2]
----
 
+
+```markdown
+<!-- Đây là chú thích và không liên quan tới Mermaid -->
 <!--**thanhtrung-le/thanhtrung-le** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.>
 
 <!--Here are some ideas to get you started:>
