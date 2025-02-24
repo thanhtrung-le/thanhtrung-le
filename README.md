@@ -51,12 +51,13 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=thanhtrung-le&label=PROFILE+VIEWS)
 
+```mermaid
 flowchart LR
+    A[Hard] -->|Text| B(Round)
+    B --> C{Decision}
+    C -->|One| D[Result 1]
+    C -->|Two| E[Result 2]
 
-A[Hard] -->|Text| B(Round)
-B --> C{Decision}
-C -->|One| D[Result 1]
-C -->|Two| E[Result 2]
 
 <!--**thanhtrung-le/thanhtrung-le** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.>
 
