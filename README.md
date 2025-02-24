@@ -1,4 +1,4 @@
-## Overview 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=Hi;I+am+%40thanhtrung-le;+Embedded+system+programming+engineer+and+IOT%2C+ML%2C+AI)](https://git.io/typing-svg)
 
 <!--
 **thanhtrung-le/thanhtrung-le** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
