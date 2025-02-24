@@ -35,6 +35,21 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thanhtrung-le&theme=algolia)
 
+## 02. Table of Some Useful Tools & Technology Stacks
+
+| Alibaba | Ali-Cloud | AlpineJS | Audition | Axios | Bootstrap |
+| --- | --- | --- | --- | --- | --- |
+| ![Alibaba](https://img.shields.io/badge/Alibaba-%23FF6A00.svg?style=for-the-badge&logo=alibaba&logoColor=white) | ![Ali-Cloud](https://img.shields.io/badge/AliCloud-%230075A8.svg?style=for-the-badge&logo=alicloud&logoColor=white) | ![AlpineJS](https://img.shields.io/badge/AlpineJS-%230071C5.svg?style=for-the-badge&logo=alpine.js&logoColor=white) | ![Audition](https://img.shields.io/badge/Audition-%23039BE5.svg?style=for-the-badge&logo=adobe-audition&logoColor=white) | ![Axios](https://img.shields.io/badge/Axios-%230072C6.svg?style=for-the-badge&logo=axios&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) |
+
+| C | ChatGPT | C++ | C# | CSS | Docker |
+| --- | --- | --- | --- | --- | --- |
+| ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) | ![ChatGPT](https://img.shields.io/badge/ChatGPT-%231ABC9C.svg?style=for-the-badge&logo=openai&logoColor=white) | ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) | ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) |
+
+| Git | GitHub | Java | JavaScript | Node.js | Python |
+| --- | --- | --- | --- | --- | --- |
+| ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white) | ![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) | ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) | ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) |
+
+
 <**thanhtrung-le/thanhtrung-le** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.>
 
 <Here are some ideas to get you started:>
